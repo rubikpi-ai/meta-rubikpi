@@ -1,0 +1,6 @@
+multiCameraLogicalXMLFile=kodiak_dc.xml
+enableNCSService=FALSE
+enableFeature2CTS=0
+dumpSensorEEPROMData=1
+maxRawSizes=2
+
